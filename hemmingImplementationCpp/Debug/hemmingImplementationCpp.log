@@ -1,0 +1,5 @@
+﻿  hemmingImplementationCpp.cpp
+c:\users\jecka\documents\fit\visual studio 2015\projects\hemmingimplementationcpp\hemmingimplementationcpp\hemmingimplementationcpp.cpp(52): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\jecka\documents\fit\visual studio 2015\projects\hemmingimplementationcpp\hemmingimplementationcpp\hemmingimplementationcpp.cpp(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\jecka\documents\fit\visual studio 2015\projects\hemmingimplementationcpp\hemmingimplementationcpp\hemmingimplementationcpp.cpp(12): warning C4101: b: неиспользованная локальная переменная
+  hemmingImplementationCpp.vcxproj -> C:\Users\jecka\Documents\FIT\Visual Studio 2015\Projects\hemmingImplementationCpp\Debug\hemmingImplementationCpp.exe
